@@ -107,8 +107,8 @@
                                     <div class="controls">
                                         <select id="hour_level" name="hour_level" class="span5">
                                             <option value="">-- Select a Hour --</option>
-                                            <option value="9">
-                                                9 ชั่วโมง
+                                            <option value="4">
+                                                4 ชั่วโมง
                                             </option>
                                             <option value="12">
                                                 12 ชั่วโมง
